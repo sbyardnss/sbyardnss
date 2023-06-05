@@ -107,7 +107,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sbyardnss](https://github.com/sbyardnss)
 
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 Ask me about **React, JavaScript, Python, Django, chess, music**
 
 - 📫 How to reach me **stephenjbyard@gmail.com**
 
