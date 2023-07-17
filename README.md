@@ -105,8 +105,6 @@
 
 - 👯 I’m looking to collaborate on **everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sbyardnss](https://github.com/sbyardnss)
-
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
 - 📫 How to reach me **stephenjbyard@gmail.com**
