@@ -109,7 +109,7 @@
 
 - 📫 How to reach me **stephenjbyard@gmail.com**
 
-- 📄 I am a fan of [graphic design, music, chess, and coding!](graphic design, music, chess, and coding!)
+- 📄 I am a fan of graphic design, music, chess, and coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
